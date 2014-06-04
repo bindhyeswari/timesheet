@@ -1,0 +1,17 @@
+body {
+    font: 100 1em 'Open Sans';
+    color: #555;
+    padding: 5em;
+}
+input{
+    display: block;
+    border: 1px solid #bbb;
+    padding: 0.25em 0.75em;
+    font: 100 1em 'Open Sans';
+    outline: none;
+    margin: 0 auto;
+}
+div.time{
+    font: bolder 0.85em 'Consolas';
+
+}
